@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome"
+img: jekyll-poster.png
+date:   2018-01-01 14:55:52 +0200
+categories: post 
+---
+{% highlight ruby %}
+print ("Hello World")
+{% endhighlight %}
+New Content always coming up.
