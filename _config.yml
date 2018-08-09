@@ -15,12 +15,11 @@ about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-#phone: 044 825 5523 # Add your Phone number
+email: coming@soon.com # Add your Email address
+phone:  46 55 43 4b 20 59 4f 55  # Add your Phone number
 website: https://pl4gue.github.io/ # Add your website, do not add http://
-#linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-#twitter: '@artemsheludko_' # Add your Twitter handle
+github: pl4gue # Add your Github handle
+twitter: '@XXX' # Add your Twitter handle
 
 # Tracker
 analytics:
