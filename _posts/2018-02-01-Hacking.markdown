@@ -2,7 +2,21 @@
 layout: post
 title:  "Hacking"
 img: hacking.jpeg
-date:   2018-02-01 14:55:52 +0200
+date:   2018-02-01 14:55:55
 categories: post 
 ---
-Hacking
+### "You can use a hammer to build with or you can use a hammer to destroy."
+
+Hacking generally refers to unauthorized intrusion into a computer or a network. The person engaged in hacking activities is known as a hacker. This hacker may alter system or security features to accomplish a goal that differs from the original purpose of the system.
+
+## Basics
+I see you want to start your journey on hacking. but look at your foundation. is it strong? are you ready for the challenge?.
+I would suggest you start with the very basics.
+[compTIA A+](https://www.youtube.com/watch?v=SlzwMKcCoMI&list=PLG49S3nxzAnmlC1ZsppuM7yleDuYCMHrv)
+[compTIA Network+](https://www.youtube.com/watch?v=LWJ8PHvAL6k&list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ)
+[compTIA Security+](https://www.youtube.com/watch?v=UbxRf_9Rcmg&list=PLG49S3nxzAnnVhoAaL4B6aMFDQ8_gdxAy)
+
+We got the basics covered. now we need some hands-on experience. so lets start with some actual hacking.
+[Kali Linux](https://www.kali.org/)
+[Ethical Hacking Course](https://www.cybrary.it/course/advanced-penetration-testing/)
+
