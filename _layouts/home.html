@@ -23,18 +23,6 @@ layout: default
           <li class="email"><a href="mailto:coming@soon.com"><i class="fa fa-envelope-o" aria-hidden="true"></i>coming@soon.com</a></li>
         {% endif %}
 
-        {% if site.phone %}
-          <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i> {{site.phone}}</a></li>
-        {% else %}
-          <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i> 044 825 5523</a></li>
-        {% endif %}
-
-        {% if site.website %}
-          <li class="website"><a href="http://{{site.website}}" target="_blank"><i class="fa fa-globe"></i> {{site.website}}</a></li>
-        {% else %}
-        <li class="website"><a href="https://pl4gue.github.io/" target="_blank"><i class="fa fa-globe" aria-hidden="true"></i>github.io</a></li>
-        {% endif %}
-
         {% if site.github %}
           <li class="github"><a href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i> github.com/{{site.github}}</a></li>
         {% else %}
